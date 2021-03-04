@@ -1,0 +1,22 @@
+{
+  "name": "stockanalyzernodejs",
+  "version": "1.0.0",
+  "description": "init",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duchungluu/StockAnalyzerNodejs.git"
+  },
+  "keywords": [
+    "stonk"
+  ],
+  "author": "Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duchungluu/StockAnalyzerNodejs/issues"
+  },
+  "homepage": "https://github.com/duchungluu/StockAnalyzerNodejs#readme"
+}
