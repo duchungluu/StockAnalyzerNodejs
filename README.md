@@ -1,1 +1,1 @@
-# StockAnalyzerNodejs
+# StonkAnalyzerNodejs

@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/duchungluu/StockAnalyzerNodejs/issues"
   },
-  "homepage": "https://github.com/duchungluu/StockAnalyzerNodejs#readme"
+  "homepage": "https://github.com/duchungluu/StockAnalyzerNodejs#readme",
+  "dependencies": {
+    "validator": "^13.5.2"
+  }
 }
